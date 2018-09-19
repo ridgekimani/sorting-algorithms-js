@@ -1,0 +1,27 @@
+{
+  "name": "sorting-algorithms",
+  "version": "1.0.0",
+  "description": "Sorting algorthims in js",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ridgekimani/sorting-algorithms-js.git"
+  },
+  "keywords": [
+    "sorting",
+    "algorithms",
+    "js"
+  ],
+  "author": "Ridge Kimani",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ridgekimani/sorting-algorithms-js/issues"
+  },
+  "homepage": "https://github.com/ridgekimani/sorting-algorithms-js#readme",
+  "dependencies": {
+    "jest": "^23.6.0"
+  }
+}
