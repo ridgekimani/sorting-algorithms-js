@@ -1,5 +1,5 @@
-const bubbleSort = (original) => {
-    const array = [...original]
+const bubbleSort = (originalArray) => {
+    const array = [...originalArray]
     let swapped = false
 
     for (let i = 1; i < array.length; i += 1) {
@@ -19,5 +19,5 @@ const bubbleSort = (original) => {
     }
     return array
 }
-
+g
 module.exports = bubbleSort
